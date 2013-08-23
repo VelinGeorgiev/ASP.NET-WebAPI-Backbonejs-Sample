@@ -1,0 +1,5 @@
+2013/08/23-11:22:54.550 fbc Recovering log #12
+2013/08/23-11:22:54.550 fbc Level-0 table #14: started
+2013/08/23-11:22:54.580 fbc Level-0 table #14: 1063 bytes OK
+2013/08/23-11:22:54.674 fbc Delete type=0 #12
+2013/08/23-11:22:54.674 fbc Delete type=3 #10

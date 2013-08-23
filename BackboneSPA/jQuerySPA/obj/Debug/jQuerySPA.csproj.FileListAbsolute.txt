@@ -1,0 +1,95 @@
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\jQuerySPA.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\jQuerySPA.pdb
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\Antlr3.Runtime.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\EntityFramework.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\Newtonsoft.Json.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Net.Http.Formatting.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Helpers.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Http.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Http.WebHost.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Mvc.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Optimization.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Providers.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Razor.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.Deployment.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.Razor.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\WebGrease.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\EntityFramework.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\Newtonsoft.Json.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Net.Http.Formatting.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Helpers.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Http.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Http.WebHost.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Mvc.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.Razor.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.Deployment.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\bin\System.Web.WebPages.Razor.xml
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\obj\Debug\jQuerySPA.dll
+c:\users\velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\obj\Debug\jQuerySPA.pdb
+C:\Users\Velkata\documents\visual studio 2012\Projects\jQuerySPA\jQuerySPA\obj\Debug\jQuerySPA.csprojResolveAssemblyReference.cache
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\jQuerySPA.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\jQuerySPA.pdb
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\Antlr3.Runtime.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\EntityFramework.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\Newtonsoft.Json.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Net.Http.Formatting.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Helpers.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Http.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Http.WebHost.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Mvc.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Optimization.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Providers.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Razor.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\WebGrease.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\EntityFramework.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\Newtonsoft.Json.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Net.Http.Formatting.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Helpers.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Http.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Http.WebHost.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Mvc.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.Razor.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\obj\Debug\jQuerySPA.dll
+C:\Users\Velkata\Documents\Visual Studio 2012\Projects\BackboneSPA\jQuerySPA\obj\Debug\jQuerySPA.pdb
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\jQuerySPA.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\jQuerySPA.pdb
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\Antlr3.Runtime.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\EntityFramework.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\Newtonsoft.Json.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Net.Http.Formatting.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Helpers.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Http.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Http.WebHost.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Mvc.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Optimization.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Providers.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Razor.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\WebGrease.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\EntityFramework.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\Newtonsoft.Json.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Net.Http.Formatting.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Helpers.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Http.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Http.WebHost.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Mvc.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.Razor.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\obj\Debug\jQuerySPA.csprojResolveAssemblyReference.cache
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\obj\Debug\jQuerySPA.dll
+C:\Users\Velkata\Desktop\BackboneSPA\jQuerySPA\obj\Debug\jQuerySPA.pdb
